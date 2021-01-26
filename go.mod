@@ -1,4 +1,4 @@
-module github.com/JungeCatSW/go-getter
+module github.com/JungleCatSW/go-getter
 
 require (
 	cloud.google.com/go v0.45.1
