@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	urlhelper "github.com/hashicorp/go-getter/helper/url"
+	urlhelper "github.com/JungleCatSW/go-getter/helper/url"
 )
 
 var testHasGit bool

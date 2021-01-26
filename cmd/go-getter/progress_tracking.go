@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"sync"
 
+	getter "github.com/JungleCatSW/go-getter"
 	"github.com/cheggaaa/pb"
-	getter "github.com/hashicorp/go-getter"
 )
 
 // defaultProgressBar is the default instance of a cheggaaa
